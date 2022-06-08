@@ -11,7 +11,7 @@ import static java.util.stream.Collectors.joining;
 import static java.util.stream.Collectors.toList;
 
 
-class Result {
+class mini_max_sum {
 
     /*
      * Complete the 'miniMaxSum' function below.
